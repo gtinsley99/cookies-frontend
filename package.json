@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "https://gtinsley99.github.io/cookies",
+  "homepage": "https://gtinsley99.github.io/cookies-frontend",
   "private": true,
   "dependencies": {
     "@faker-js/faker": "^8.1.0",
